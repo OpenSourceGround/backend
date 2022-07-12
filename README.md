@@ -1,2 +1,8 @@
-# BackendTemplate
- Node.js Backend template. Typescript + Javascript.
+# Welcome!
+
+## Quick Start
+
+```shell
+npm i --sav-dev
+npm install
+```
